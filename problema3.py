@@ -1,0 +1,6 @@
+a=input("introdu primul cuvant:")
+b=input("introdu al doilea cuvant:")
+c=input("introdu al treilea cuvant:")
+d=input("introdu al patrulea cuvant:")
+print("Cuvintele: ",a,b,c,d,sep="  ")
+print(a+" "+b+" "+c+" "+d+".")
